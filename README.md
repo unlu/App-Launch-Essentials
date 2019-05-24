@@ -6,17 +6,18 @@ Below we will list all the steps that you need to take in order to register for 
 Keep in mind that you will need a few things in order to be able to enroll in the Apple Developer Program, these are the requirements:
 
 ### Apple ID
+
 If you have an iOS device, you probably already have an Apple ID, if for some reason you don’t have one yet, you can quickly register here: [https://appleid.apple.com/account](https://appleid.apple.com/account) 
 
-*Enable Two-Factor Authentication*
+### Enable Two-Factor Authentication
 
 As a security measure, Apple will require you to have two-factor authentication enabled in your Apple ID before you can proceed with the enrollment. You can find more details on how to enable the two-factor authentication [clicking here](https://support.apple.com/en-sg/HT207198) 
 
-*DUNS Number*
+### DUNS Number
 
 Apple will also require you to have a DUNS number if you are a Company. If you are not sure if you have a DUNS number or if you’d like to request one (totally free), you can do so in this page:https://developer.apple.com/enroll/duns-lookup/
 
-*Why should I enroll as a Company?*
+### Why should I enroll as a Company?
 
 You must enroll as an organization if your company is a registered company such as Corporation (Corp., Inc.), Limited Liability Company (LLC, LC, Ltd. Co.), or a legal entity (GmbH, AG, KG, oHg, etc.).
 
@@ -26,7 +27,7 @@ Benefits of an Organization account:
 * You can choose the name that will be displayed on the stores as the Developer of the app – this will match your company name e.g. Business Inc.
 * Apple will know you’re authorized to act for the company and will not challenge your use of your own brand name and content
 
-*Next Steps*
+### Next Steps
 
 Once you have your Apple ID and DUNS Number in hands, you can then proceed with the next steps:
 1. Register as a Developer, you just need to read and accept the agreement here: [https://developer.apple.com/account](https://developer.apple.com/account) 
