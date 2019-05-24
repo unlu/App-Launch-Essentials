@@ -5,8 +5,7 @@ Below we will list all the steps that you need to take in order to register for 
 
 Keep in mind that you will need a few things in order to be able to enroll in the Apple Developer Program, these are the requirements:
 
-*Apple ID*
-
+### Apple ID
 If you have an iOS device, you probably already have an Apple ID, if for some reason you don’t have one yet, you can quickly register here: [https://appleid.apple.com/account](https://appleid.apple.com/account) 
 
 *Enable Two-Factor Authentication*
