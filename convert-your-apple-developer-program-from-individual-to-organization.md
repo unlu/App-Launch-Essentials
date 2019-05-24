@@ -19,17 +19,14 @@ To change your account to a Corporate account, submit a request to Apple Develop
 4. Choose*Account Updates and Renewals*as your Subject.
 5. Enter a message with text along these lines
 
-```
-“I’d like to convert my account from Individual to Organization. This will be our only Organization account.
-Here are the information regarding the company:
-* CEO/Director Name: First and Last Name.
-* Company Name: Your Company Name, including Ltd or Inc.
-* Account Type: Organization.
-* D-U-N-S Number: your Company’s DUNS number.
-* Address: Your Company’s Legal Address.
-* Phone Number: Your mobile phone or another phone number where you can be reached
-```
-
+> “I’d like to convert my account from Individual to Organization. This will be our only Organization account.
+> Here are the information regarding the company:
+> CEO/Director Name: First and Last Name.
+> Company Name: Your Company Name, including Ltd or Inc.
+> Account Type: Organization.
+> D-U-N-S Number: your Company’s DUNS number.
+> Address: Your Company’s Legal Address.
+> Phone Number: Your mobile phone or another phone number where you can be reached
 
 Organizations enrolling in the AppleDeveloperProgram will need:
 
