@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# How to Register for an Apple Developer Account
+In order to be able to publish your app to the App Store, for iOS devices, you will need to have an Apple Developer Account.
 
-You can use the [editor on GitHub](https://github.com/unlu/App-Launch-Essentials/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Below we will list all the steps that you need to take in order to register for your own Apple Developer Account.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Keep in mind that you will need a few things in order to be able to enroll in the Apple Developer Program, these are the requirements:
 
-### Markdown
+**Apple ID**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you have an iOS device, you probably already have an Apple ID, if for some reason you don’t have one yet, you can quickly register here: [https://appleid.apple.com/account](https://appleid.apple.com/account) 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/unlu/App-Launch-Essentials/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
