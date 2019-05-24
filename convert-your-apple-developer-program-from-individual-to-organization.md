@@ -38,9 +38,17 @@ To change your account to a Corporate account, submit a request to Apple Develop
 Organizations enrolling in the AppleDeveloperProgram will need:
 
 * *Legal Entity Status*
+
 Your business must be recognized as a legal entity (e.g., a corporation, limited partnership, limited liability company) to enter into the legal terms and obligations of Apple Developer Program. The legal entity name will appear as the developers for apps you distribute on the AppStore. Example:/Seller: ABC Company, Inc./
+
 * *A D‑U‑N‑S Number*
+
 You must have a D‑U‑N‑S Number so that Apple can verify your organization’s identity and legal entity status. Learn more about [what is a DUNS number](https://www.mobiloud.com/help/knowledge-base/what-is-duns-number/) and how you can get one for your company.
+
 * *Legal Binding Authority*
+
 You must have the legal authority to bind your organization to legal agreements. You must be the organization’s owner/founder, executive team member, senior project lead, or have legal authority granted to you by a senior employee.
-* *A Website*Your Company needs a public website and your domain name should be owned by the company.
+
+* *A Website*
+
+* Your Company needs a public website and your domain name should be owned by the company.
