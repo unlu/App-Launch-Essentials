@@ -15,7 +15,7 @@ As a security measure, Apple will require you to have two-factor authentication 
 
 ### DUNS Number
 
-Apple will also require you to have a DUNS number if you are a Company. If you are not sure if you have a DUNS number or if you’d like to request one (totally free), you can do so in this page: https://developer.apple.com/enroll/duns-lookup/
+Apple will also require you to have a DUNS number if you are a Company. If you are not sure if you have a DUNS number or if you’d like to request one (totally free), you can do so in this page: [https://developer.apple.com/enroll/duns-lookup/](https://developer.apple.com/enroll/duns-lookup/)
 
 ### Why should I enroll as a Company?
 
