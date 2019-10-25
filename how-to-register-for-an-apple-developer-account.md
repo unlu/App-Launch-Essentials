@@ -5,6 +5,12 @@ Below we will list all the steps that you need to take in order to register for 
 
 Keep in mind that you will need a few things in order to be able to enroll in the Apple Developer Program, these are the requirements:
 
+### Important Note
+
+> You must enroll as an organization.
+> Your Apple ID is authorized to sign on behalf of the company.
+> You will be contacted by phone within 1 week of applying for an Apple developer account to verify your organizational information. After the phone call you will receive an email from Apple and you will be redirected to the payment page.
+
 ### Apple ID
 
 If you have an iOS device, you probably already have an Apple ID, if for some reason you don’t have one yet, you can quickly register here: [https://appleid.apple.com/account](https://appleid.apple.com/account) 
