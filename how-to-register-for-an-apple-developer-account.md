@@ -21,7 +21,7 @@ Apple will also require you to have a DUNS number if you are a Company. If you a
 
 You must enroll as an organization if your company is a registered company such as Corporation (Corp., Inc.), Limited Liability Company (LLC, LC, Ltd. Co.), or a legal entity (GmbH, AG, KG, oHg, etc.).
 
-If you are a sole proprietorship you must [register as an Individual](https://developer.apple.com/programs/enroll/) . Apple does not accept DBAs, fictitious businesses, trade names, or branches for enrollment as a company/organization
+Apple does not accept DBAs, fictitious businesses, trade names, or branches for enrollment as a company/organization
 
 Benefits of an Organization account:
 * You can choose the name that will be displayed on the stores as the Developer of the app – this will match your company name e.g. Business Inc.
